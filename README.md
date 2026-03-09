@@ -9,23 +9,23 @@ Je code des trucs, parfois ça marche, parfois ça explose. En ce moment je cons
 ## 🛠️ Technologies & Outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />
-  <img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" />
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
-  <img src="https://skillicons.dev/icons?i=electron" alt="Electron" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="56" height="56" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="56" height="56" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="56" height="56" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="56" height="56" />
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="56" height="56" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="56" height="56" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="56" height="56" />
+  <img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" width="56" height="56" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="56" height="56" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="56" height="56" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="56" height="56" />
+  <img src="https://skillicons.dev/icons?i=electron" alt="Electron" width="56" height="56" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="56" height="56" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="56" height="56" />
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="56" height="56" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="56" height="56" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="56" height="56" />
 </p>
 
 ---
