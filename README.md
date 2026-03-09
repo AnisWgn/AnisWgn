@@ -9,7 +9,23 @@ Je code des trucs, parfois ça marche, parfois ça explose. En ce moment je cons
 ## 🛠️ Technologies & Outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,html,css,js,dart,nodejs,react,symfony,flutter,tailwind,vite,electron,firebase,mysql,postgresql,docker,git&theme=dark" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=electron" alt="Electron" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
 </p>
 
 ---
